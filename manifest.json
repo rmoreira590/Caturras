@@ -1,0 +1,26 @@
+
+{
+  "name": "Caturras Pro Executive",
+  "short_name": "CaturrasPro",
+  "description": "Gestão Genética e Financeira de Elite",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#09090b",
+  "theme_color": "#16a34a",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/2823/2823051.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Novo Registo",
+      "url": "/?action=new",
+      "icons": [{ "src": "https://cdn-icons-png.flaticon.com/512/2823/2823051.png", "sizes": "192x192" }]
+    }
+  ]
+}

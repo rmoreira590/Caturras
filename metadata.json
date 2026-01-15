@@ -1,0 +1,7 @@
+{
+  "name": "Caturras Pro Elite",
+  "description": "Software Profissional para Criadores de Caturras",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
